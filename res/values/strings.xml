@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Testing</string>
+    <string name="title_activity_user_login">Login</string>
+    <string name="title_activity_loading">Loading</string>
+    <string name="registerText">Registreren</string>
+    <string name="loginText">Inloggen</string>
+    <string name="passwordHint">******</string>
+    <string name="emailHint">Emailadres</string>
+    <string name="firstnameHint">Voornaam</string>
+    <string name="lastnameHint">Achternaam</string>
+    <string name="classNameHint">Klas</string>
+
+</resources>
